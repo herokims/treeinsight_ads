@@ -5,6 +5,3 @@ Disallow: /email/
 Disallow: /members/api/comments/counts/
 Disallow: /r/
 Disallow: /webmentions/receive/
-
-
-#DaumWebMasterTool:d02c429fd69545fb194cc3b1c39e431f75eb4cd886e7bec6108a875e65e6bbc6:xlYeYch6Q+kuwi22FOXTFw==
